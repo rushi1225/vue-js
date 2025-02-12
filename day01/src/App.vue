@@ -5,17 +5,7 @@ import TheWelcome from "./components/TheWelcome.vue";
 
 <template>
   <header>
-    <img
-      alt="Vue logo"
-      class="logo"
-      src="./assets/logo.svg"
-      width="125"
-      height="125"
-    />
-
-    <div class="wrapper">
-      <HelloWorld msg="You did it! Rushi" />
-    </div>
+    <h1>Hello Rushikesh Bhingare</h1>
   </header>
 
   <main>
